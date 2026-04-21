@@ -6,7 +6,6 @@ C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS
 Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
-#include <stdio.h>
 int main() {
 	float base;
 	float altura;
@@ -17,7 +16,6 @@ int main() {
 	scanf("%f", &altura);
 	float calculararea = base * altura;
 	printf("Resultado do calculo: %.2f", calculararea);
-
 
 
 	return 0;

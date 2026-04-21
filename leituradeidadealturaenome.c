@@ -1,5 +1,6 @@
+//Avisa que o computador que vamos usar comandos de entrada e saída
 
-#include <stdio.h> //Avisa que o computador que vamos usar comandos de entrada e saída
+
 int main(){
 int idadeUsuario;
 float altura;
